@@ -1,7 +1,7 @@
 # Deploy RAG/AI App To AWS
 
 ## Architecture Diagram
-![architecture](architecture.png)
+![architecture](Architecture_diagram.png)
 
 ## Getting Started
 
